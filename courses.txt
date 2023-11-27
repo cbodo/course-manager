@@ -1,0 +1,30 @@
+CS 162
+Intro to Computer Science
+CS 163
+Data Structures
+CS 201
+Computer Systems Programming
+CS 202
+Programming Systems
+CS 250
+Discrete Structures I
+CS 251
+Discrete Structures II
+CS 300
+Elements of Software Engineering
+CS 305
+Social, Ethical, and Legal Issues
+CS 311
+Computational Structures
+CS 320
+Principals of Programming Languages
+CS 333
+Intro to Operating Systems
+CS 350
+Algorithms and Complexity
+CS 486
+Intro to Database Systems
+CS 469
+Software Engineering Capstone I
+CS 470
+Software Engineering Capstone II
