@@ -1,5 +1,4 @@
-// Craig Bodo
-// This program is designed to help students map out the prerequisite courses needed to advance toward a CS degree. 
+// This program is designed to help students map out the prerequisite courses needed to advance toward a degree. 
 // It uses a graph data structure to model the connections bewteen courses and their prerequisites.
 // This program implements both breadth first and depth first graph traversal algorithms.
 
@@ -268,7 +267,7 @@ int show_graduation_path(Table & course_path, char * course_designator)
 		cin.get(course_designator, SIZE, '\n');
 		cin.ignore(SIZE, '\n');
 		uppercase(course_designator);
-		
+
 		cout << "\nDegree path for " << course_designator << ":\n";
 
 		if(!course_path.depth_first_search(course_designator))
